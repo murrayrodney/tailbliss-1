@@ -7,12 +7,10 @@ description: About Us
 featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
 
-# h1 Heading :blush:
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+# Prickly Pear Analytics
+## Rodney Murray
+
+A Visionary
 
 
 ## Horizontal Rules
