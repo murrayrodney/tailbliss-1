@@ -2556,6 +2556,10 @@ video {
   border-width: 0;
 }
 
+.visible {
+  visibility: visible;
+}
+
 .absolute {
   position: absolute;
 }
@@ -4345,11 +4349,6 @@ EmojiSymbols;
 
 .dark\:ring-gray-900\/40:is(.dark *) {
   --tw-ring-color: rgb(17 24 39 / 0.4);
-}
-
-.dark\:invert:is(.dark *) {
-  --tw-invert: invert(100%);
-  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 
 .dark\:hover\:bg-indigo-700:hover:is(.dark *) {
